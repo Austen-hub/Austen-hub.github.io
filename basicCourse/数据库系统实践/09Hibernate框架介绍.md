@@ -1,4 +1,3 @@
-# 数据库系统实践
 ## 09Hibernate框架介绍
 #### 1. Hibernate简介
 - Hibernate是一个开放源代码的ORM(Object Relational Mapping，对象关系映射)框架，它对JDBC进行了非常轻量级的对象封装，它将POJO与数据库表建立映射关系，是一个全自动的ORM框架，Hibernate可以自动生成SQL语句，自动执行，使得Java程序员可以随心所欲的使用对象编程思维来操纵数据库。

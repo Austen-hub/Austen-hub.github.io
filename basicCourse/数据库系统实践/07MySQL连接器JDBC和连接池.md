@@ -1,4 +1,3 @@
-# 数据库系统实践
 ## 07MySQL连接器JDBC和连接池
 #### 1. JDBC概述
 - JDBC(Java DataBase Connectivity, Java数据库连接)是一种用于执行SQL语句的Java API（Application Programming Interface，应用程序接口），可以为多种关系型数据库提供统一访问。
